@@ -83,3 +83,45 @@ Roomba, o robô de limpeza por IA
 AlexNet vence ImageNet
 	A ImageNet se tratou de uma competição na onde haviam 12 milhões de imagens em 22 mil categorias diferentes, onde uma rede neural (IA) precisava achar de um pequeno parâmetro qual era a imagem referente. Isso era um mecanismo de padrão e busca muito difícil na época.
 	O campeão na época com uma rede neural convolucional ganhou com uma margem de erro de apenas 16.4%
+
+## 2016:
+AlphaGo derrota o campeão Lee Sedol no Go
+	*"Há mais possíveis jogos de Go do que átomos no universo observável."* No jogo de Go existem tantas variações e possibilidade que fica impossível se criar um algoritmo de busca muito eficaz, é preciso ensinar a máquina a jogar de fato.
+	Lee Sedol se aposenta. O que faz o nível dos jogadores aumentarem.
+
+## 2017:
+Transformers
+	Criação dos Transformers pela a Attention is all you need, pesquisa feita pela Google. Os transformers são um tipo de arquitetura de rede neural que transforma ou altera uma sequência de entrada em uma sequência de saída.
+
+## 2022:
+ChatGPT
+	Terna-se popular o uso de IA de maneira amigável.
+
+## Idade exponencial:
+Circulo de inovação
+
+## Os perigos da IA
+Extermínio
+	Se trata de uma ideia de que a IA causaria o extermínio dos humanos (muito pouco provável).
+Alinhamento
+	O perigo de não ter um objetivo muito bem alinhado com a IA pode acabar acarretando em diversos riscos. Como cumprir ordens ao pé da letra sem distinção do que é certo ou errado.
+Bolhas de conhecimento
+	Com acesso a IA de forma completamente aberta e sem restrições as pessoas ficam abertas para poder pesquisarem e saberem o que elas quiserem. Independente de quais resultados aquele tipo de conhecimento vai acabar gerando (uma bomba caseira por exemplo).
+Desemprego
+	A IA passa a ser usada para poder desempenhar o papel de diversos profissionais que estão no mercado de trabalho, tirando a oportunidade de pessoas menos qualificadas.
+
+## Oportunidades da tecnologia de IA
+Cura de doenças
+	Com o crescente poder de processamento da IA fica cada vez mais fácil realizar testes e cálculos para a cura de doenças que hoje em dia são incuráveis.
+Exploração espacial
+	Utilização da IA para poder explorar novos lugares no universo e realizar cálculos precisos e complicados para a construção de foguetes e explorar novas descobertas espaciais.
+Energia renovável
+	Fusão nuclear talvez se torne possível nos próximos anos
+
+## Tipos de IA
+IA Estreita
+	IAs "caminham, correme nadam" como humanos, mas limitadas a tarefas específicas.
+IA Geral
+	IAG, será capaz de realizar todas as atividades humanas de formal geral.
+IA Seperior
+	Faz tudo, ultrapassa a capacidade humana de realizar tarefas complexas.
