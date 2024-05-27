@@ -1,0 +1,2 @@
+### Fontes usadas para os conteúdos:
+- INTELIGÊNCIA Artificial Explicada em APENAS 11 MINUTOS | O Que É Inteligência Artificial?. Direção: Bruno Picinini. Produção: Bruno Picinini. Intérprete: Bruno Picinini. Fotografia de Bruno Picinini. Gravação de Bruno Picinini. Www.youtube.com: YouTube, 2023. Disponível em: https://www.youtube.com/watch?v=HNBtdyMjxKU. Acesso em: 26 maio 2024.

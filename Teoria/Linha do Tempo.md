@@ -22,7 +22,7 @@ Arthur Samuel desenvolve o aprendizado de máquina:
 
 ## 1965:
 Eliza, o primeiro chatbot:
-	Que se tratava de um psicoterapeuta.
+	Se tratava de um psicoterapeuta.
 
 ## 1980:
 Aprendizado profundo:
